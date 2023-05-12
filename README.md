@@ -1,3 +1,24 @@
-# AWS-Getting-Started-with-Networking
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="739d792d-d9c7-4286-a061-a28f54291359" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+# ☁️ Getting Started with Networking - Amazon VPC (Virtual Private Cloud)
+
+AWS Educate Labs
+
+[Getting Started with Networking Certification](https://www.credly.com/badges/739d792d-d9c7-4286-a061-a28f54291359/public_url)
+## Authors
+
+- [@Kuljot Biring](https://www.github.com/kuljotbiring)
+
+
+## 💻 About me
+
+I'm a Computer Science student at Oregon State University
+
+#### Amazon VPC
+
+* Explored the basic components of a VPC
+
+* Deployed a basic VPC with public subnets
+
+* Deployed an EC2 instance into a VPC
+
+
