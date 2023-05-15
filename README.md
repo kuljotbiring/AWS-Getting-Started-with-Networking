@@ -22,3 +22,4 @@ I'm a Computer Science student at Oregon State University
 * Deployed an EC2 instance into a VPC
 
 
+![aws-educate-getting-started-with-networking](https://github.com/kuljotbiring/AWS-Getting-Started-with-Networking/assets/34665034/895902b1-f04c-45b0-a4ac-0a7535f8e694)
