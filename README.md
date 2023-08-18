@@ -1,6 +1,10 @@
 
 # ☁️ Getting Started with Networking - Amazon VPC (Virtual Private Cloud)
-
+<p align="left">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+</p>
 AWS Educate Labs
 
 [Getting Started with Networking Certification](https://www.credly.com/badges/739d792d-d9c7-4286-a061-a28f54291359/public_url)
